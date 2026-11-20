@@ -1,0 +1,3 @@
+Hello Node.js
+This file is used to test the fs file manager.
+Try: node fileManager.js read test.txt
